@@ -1,4 +1,5 @@
-Group Project:                                                                      
+# 0x11. C - printf
+## Group Project:                                                                      
                                                                                     
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
  a Spur for life                                                                    
@@ -56,5 +57,11 @@ ring
 Handle the following custom conversion specifier:                                   
                                                                                     
 15. *                                                                               
-All the above options work well together. 
+All the above options work well together.
 
+**AUTHORS**
+### Ikechukwu Wilson
+Github:[JDiegowilson](https://github.com/JDiegowilson)
+
+### Shabani Athuman
+Github:[Mwamtindi](https://github.com/Mwamtindi)
